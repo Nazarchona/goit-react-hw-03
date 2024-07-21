@@ -1,0 +1,19 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.item p {
+  margin: 0;
+}
+
+.item button {
+  padding: 5px 10px;
+  border: none;
+  background-color: #f44336;
+  color: white;
+  font-size: 14px;
+  border-radius: 4px;
+  cursor: pointer;
+}
